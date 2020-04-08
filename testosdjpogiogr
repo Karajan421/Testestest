@@ -5,6 +5,7 @@
     "height": 1000
   },
   "data": [
+  
     {
       "type": "sankey",
       "domain": {
@@ -18,7 +19,102 @@
         ]
       },
       "nodes": [
-        
+        {
+          "label": "Afghanistan",
+          "visible": true
+        },
+        {
+          "label": "Air Force",
+          "visible": true
+        },
+        {
+          "label": "Army",
+          "visible": true
+        },
+        {
+          "label": "Atlantic Ocean",
+          "visible": true
+        },
+        {
+          "label": "Classified",
+          "visible": true
+        },
+        {
+          "label": "Djibouti",
+          "visible": true
+        },
+        {
+          "label": "Fire Scout",
+          "visible": true
+        },
+        {
+          "label": "Fire Scout MQ-8B",
+          "visible": true
+        },
+        {
+          "label": "Global Hawk",
+          "visible": true
+        },
+        {
+          "label": "Global Hawk EQ-4B",
+          "visible": true
+        },
+        {
+          "label": "Global Hawk RQ-4A",
+          "visible": true
+        },
+        {
+          "label": "Gray Eagle",
+          "visible": true
+        },
+        {
+          "label": "Gray Eagle MQ-1C",
+          "visible": true
+        },
+        {
+          "label": "Hummingbird",
+          "visible": true
+        },
+        {
+          "label": "Hummingbird A160T Hummingbird",
+          "visible": true
+        },
+        {
+          "label": "Hunter",
+          "visible": true
+        },
+        {
+          "label": "Hunter MQ-5A",
+          "visible": true
+        },
+        {
+          "label": "Hunter MQ-5B",
+          "visible": true
+        },
+        {
+          "label": "Hunter RQ-5A",
+          "visible": true
+        },
+        {
+          "label": "IGNAT",
+          "visible": true
+        },
+        {
+          "label": "IGNAT RQ-1L",
+          "visible": true
+        },
+        {
+          "label": "Iran",
+          "visible": true
+        },
+        {
+          "label": "Iraq",
+          "visible": true
+        },
+        {
+          "label": "Italy",
+          "visible": true
+        },
         {
           "label": "K-MAX",
           "visible": true
