@@ -1,0 +1,254 @@
+{
+  "layout": {
+    "title": "Fallen from the skies: drone crashes database - Washington Post",
+    "width": 1600,
+    "height": 1000
+  },
+  "data": [
+    {
+      "type": "sankey",
+      "domain": {
+        "x": [
+          0,
+          1
+        ],
+        "y": [
+          0,
+          1
+        ]
+      },
+      "nodes": [
+        {
+          "label": "Afghanistan",
+          "visible": true
+        },
+        {
+          "label": "Air Force",
+          "visible": true
+        },
+        {
+          "label": "Army",
+          "visible": true
+        },
+        {
+          "label": "Atlantic Ocean",
+          "visible": true
+        },
+        {
+          "label": "Classified",
+          "visible": true
+        },
+        {
+          "label": "Djibouti",
+          "visible": true
+        },
+        {
+          "label": "Fire Scout",
+          "visible": true
+        },
+        {
+          "label": "Fire Scout MQ-8B",
+          "visible": true
+        },
+        {
+          "label": "Global Hawk",
+          "visible": true
+        },
+        {
+          "label": "Global Hawk EQ-4B",
+          "visible": true
+        },
+        {
+          "label": "Global Hawk RQ-4A",
+          "visible": true
+        },
+        {
+          "label": "Gray Eagle",
+          "visible": true
+        },
+        {
+          "label": "Gray Eagle MQ-1C",
+          "visible": true
+        },
+        {
+          "label": "Hummingbird",
+          "visible": true
+        },
+        {
+          "label": "Hummingbird A160T Hummingbird",
+          "visible": true
+        },
+        {
+          "label": "Hunter",
+          "visible": true
+        },
+        {
+          "label": "Hunter MQ-5A",
+          "visible": true
+        },
+        {
+          "label": "Hunter MQ-5B",
+          "visible": true
+        },
+        {
+          "label": "Hunter RQ-5A",
+          "visible": true
+        },
+        {
+          "label": "IGNAT",
+          "visible": true
+        },
+        {
+          "label": "IGNAT RQ-1L",
+          "visible": true
+        },
+        {
+          "label": "Iran",
+          "visible": true
+        },
+        {
+          "label": "Iraq",
+          "visible": true
+        },
+        {
+          "label": "Italy",
+          "visible": true
+        },
+        {
+          "label": "K-MAX",
+          "visible": true
+        },
+        {
+          "label": "K-MAX K-MAX",
+          "visible": true
+        },
+        {
+          "label": "Kuwait",
+          "visible": true
+        },
+        {
+          "label": "Libya",
+          "visible": true
+        },
+        {
+          "label": "Mali",
+          "visible": true
+        },
+        {
+          "label": "Marine Corps",
+          "visible": true
+        },
+        {
+          "label": "Navy",
+          "visible": true
+        },
+        {
+          "label": "Pakistan",
+          "visible": true
+        },
+        {
+          "label": "Phantom",
+          "visible": true
+        },
+        {
+          "label": "Phantom QF-4",
+          "visible": true
+        },
+        {
+          "label": "Phantom QF-4E",
+          "visible": true
+        },
+        {
+          "label": "Phantom QRF-4C",
+          "visible": true
+        },
+        {
+          "label": "Predator",
+          "visible": true
+        },
+        {
+          "label": "Predator MQ-1",
+          "visible": true
+        },
+        {
+          "label": "Predator MQ-1B",
+          "visible": true
+        },
+        {
+          "label": "Predator MQ-1L",
+          "visible": true
+        },
+        {
+          "label": "Predator RQ-1",
+          "visible": true
+        },
+        {
+          "label": "Predator RQ-1B",
+          "visible": true
+        },
+        {
+          "label": "Predator RQ-1L",
+          "visible": true
+        },
+        {
+          "label": "Reaper",
+          "visible": true
+        },
+        {
+          "label": "Reaper MQ-9",
+          "visible": true
+        },
+        {
+          "label": "Reaper MQ-9A",
+          "visible": true
+        },
+        {
+          "label": "Sentinel",
+          "visible": true
+        },
+        {
+          "label": "Sentinel RQ-170",
+          "visible": true
+        },
+        {
+          "label": "Seychelles",
+          "visible": true
+        },
+        {
+          "label": "Shadow",
+          "visible": true
+        },
+        {
+          "label": "Shadow RQ-7B",
+          "visible": true
+        },
+        {
+          "label": "United Arab Emirates",
+          "visible": true
+        },
+        {
+          "label": "United States",
+          "visible": true
+        },
+        {
+          "label": "Warrior",
+          "visible": true
+        },
+        {
+          "label": "Warrior MQ-1B",
+          "visible": true
+        },
+        {
+          "label": "Warrior MQ-1C",
+          "visible": true
+        },
+        {
+          "label": "Warrior RQ-1C",
+          "visible": true
+        }
+      ],
+     
+      
+    }
+  ]
+}
