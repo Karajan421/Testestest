@@ -3734,12 +3734,7 @@
           "value": 1,
           "label": "An Army Warrior flew off and was never located<br>after it lost link during flight. Attempts to<br>restart the links were unsuccessful, according to<br>Army safety officials. A Freedom of Information<br>Act request for the accident investigation report,<br>filed in October 2013, is pending. <br><br>Damage: unknown<br>"
         },
-        {
-          "source": 56,
-          "target": 53,
-          "value": 1,
-          "label": "An Army Warrior crashed during a hard landing,<br>according to Army safety officials, who gave no<br>other details. A Freedom of Information Act<br>request for the accident investigation report,<br>filed in October 2013, is pending. <br><br>Damage: unknown<br>"
-        }
+        
       ]
     }
   ]
