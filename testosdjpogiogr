@@ -3722,19 +3722,7 @@
           "value": 1,
           "label": "A Warrior crashed after it lost link with its<br>ground-control station. The aircraft was on a<br>training mission operated by contractors,<br>according to Army safety officials. The Army said<br>it did not conduct a publicly releasable accident<br>investigation.<br><br>Damage: unknown<br>"
         },
-        {
-          "source": 56,
-          "target": 53,
-          "value": 1,
-          "label": "An Army Warrior crashed after the operator ordered<br>a rapid descent and the aircraft's nose pitched<br>down. The drone went into an uncontrolled spiral,<br>according to Army safety officials. A Freedom of<br>Information Act request for the accident<br>investigation report, filed in October 2013 with<br>U.S. Army Central, is pending. <br><br>Damage: unknown<br>"
-        },
-        {
-          "source": 56,
-          "target": 53,
-          "value": 1,
-          "label": "An Army Warrior flew off and was never located<br>after it lost link during flight. Attempts to<br>restart the links were unsuccessful, according to<br>Army safety officials. A Freedom of Information<br>Act request for the accident investigation report,<br>filed in October 2013, is pending. <br><br>Damage: unknown<br>"
-        },
-        
+       
       ]
     }
   ]
